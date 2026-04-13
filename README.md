@@ -6,8 +6,8 @@ To identify different types of customers based on their shopping behavior and he
 ## Dataset
 Brazilian E-commerce Public Dataset (Olist)
 Contains:
-   Customer details
-   Orders and payments
+   - Customer details
+   - Orders and payments
    Product categories
    Reviews
 ## Tools Used

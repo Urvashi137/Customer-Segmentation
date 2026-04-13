@@ -1,0 +1,10 @@
+Requirement Tools:
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+plotly
+jupyter
+joblib

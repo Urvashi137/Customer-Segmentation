@@ -30,5 +30,5 @@ Identified customer groups like:
    - Low-engagement users
 ## How to Run
 - Install required libraries:
-   -pip install pandas numpy scikit-learn matplotlib
+   - pip install pandas numpy scikit-learn matplotlib
 - Run the Jupyter Notebook

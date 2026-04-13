@@ -1,5 +1,5 @@
 # Customer Segmentation using E-commerce Behavior 
-This project focuses on Customer Segmentation using e-commerce user behavior data. The goal is to identify different groups of customers based on their purchasing patterns and help businesses make data-driven decisions.
+This project focuses on Customer Segmentation using e-commerce user behavior data by applying RFM (Recency, Frequency, Monetary) analysis and clustering techniques. The goal is to identify different groups of customers based on their purchasing patterns and help businesses make data-driven decisions
 ## Objective
 To identify different types of customers based on their shopping behavior and help businesses make better decisions.
 ## Dataset

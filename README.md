@@ -32,3 +32,5 @@ Identified customer groups like:
 - Install required libraries:
    - pip install pandas numpy scikit-learn matplotlib
 - Run the Jupyter Notebook
+## About
+This project was created as part of my learning in Data Analytics and Machine Learning.

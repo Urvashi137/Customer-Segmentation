@@ -1,10 +1,9 @@
-# Customer Segmentation using E-commerce Behavior & LLM
-This project analyzes customer behavior using a Brazilian e-commerce dataset.
-It groups customers into different segments using machine learning and uses LLM to explain each group in simple language.
+# Customer Segmentation using E-commerce Behavior 
+This project focuses on Customer Segmentation using e-commerce user behavior data. The goal is to identify different groups of customers based on their purchasing patterns and help businesses make data-driven decisions.
 ## Objective
 To identify different types of customers based on their shopping behavior and help businesses make better decisions.
 ## Dataset
-Brazilian E-commerce Public Dataset (Olist)
+Brazilian E-commerce Public Dataset
 Contains:
    - Customer details
    - Orders and payments
@@ -16,21 +15,22 @@ Contains:
    - NumPy
    - Scikit-learn
    - Matplotlib
-   - LLM 
+   - LLM (for generating segment insights) 
 ## What I Did
-- Cleaned and processed the dataset
-- Performed customer behavior analysis
-- Applied K-Means clustering
-- Created customer segments
-- Used LLM to describe each segment
+- Cleaned and preprocessed real-world e-commerce data
+- Performed RFM (Recency, Frequency, Monetary) analysis to understand customer behavior
+- Normalized features for clustering
+- Applied K-Means clustering to segment customers
+- Evaluated and interpreted different customer segments
+- Used LLM to generate meaningful descriptions and insights for each segment
 ## Results
 Identified customer groups like:
    - High-value customers
-   - Frequent buyers
+   - Loyal customers
    - Low-engagement users
 ## How to Run
 - Install required libraries:
    - pip install pandas numpy scikit-learn matplotlib
 - Run the Jupyter Notebook
 ## About
-This project was created as part of my learning in Data Analytics and Machine Learning.
+This project was developed as part of my learning in Data Analytics and Machine Learning, combining traditional clustering techniques with modern AI (LLM-based insights).

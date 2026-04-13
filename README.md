@@ -9,6 +9,7 @@ Contains:
    - Orders and payments
    - Product categories
    - Reviews
+🔗 Download from: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ## Tools Used
    - Python
    - Pandas

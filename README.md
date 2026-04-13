@@ -23,6 +23,10 @@ Contains:
 - Applied K-Means clustering to segment customers
 - Evaluated and interpreted different customer segments
 - Used LLM to generate meaningful descriptions and insights for each segment
+## Streamlit App
+This project includes a Streamlit application to interactively explore customer segments.
+### How to Run
+   - streamlit run app.py
 ## Results
 Identified customer groups like:
    - High-value customers
